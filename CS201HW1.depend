@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1426971064 source:c:\users\evren\desktop\cs201homeworks\cs201hw1\src\boxoffice.cpp
+	"BoxOffice.h"
+	<string>
+	<iostream>
+
+1426872272 c:\users\evren\desktop\cs201homeworks\cs201hw1\include\boxoffice.h
+	<string>
+
+1426971192 source:c:\users\evren\desktop\cs201homeworks\cs201hw1\src\testbox.cpp
+	"BoxOffice.h"
+	<string>
+	<iostream>
+
